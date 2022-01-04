@@ -1,0 +1,5 @@
+﻿  Parity.c
+C:\Users\gauta\source\repos\Gautam Singh - Algorithms Lab 2\PROG72365_21W_Lab02\Parity.c(14,19): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\gauta\source\repos\Gautam Singh - Algorithms Lab 2\PROG72365_21W_Lab02\Parity.c(25,9): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Users\gauta\source\repos\Gautam Singh - Algorithms Lab 2\PROG72365_21W_Lab02\Parity.c(34,30): warning C4028: formal parameter 1 different from declaration
+  PROG72365_21W_Lab02.vcxproj -> C:\Users\gauta\source\repos\Gautam Singh - Algorithms Lab 2\x64\Debug\PROG72365_21W_Lab02.exe

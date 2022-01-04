@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\gauta\source\repos\Gautam Singh - Algorithms Lab 06\PROG72365_21W_Lab06_PartB\main.c(21,14): warning C4047: 'function': 'float *' differs in levels of indirection from 'float [3][4]'
+C:\Users\gauta\source\repos\Gautam Singh - Algorithms Lab 06\PROG72365_21W_Lab06_PartB\main.c(21,13): warning C4024: 'MultiplyAx': different types for formal and actual parameter 1
+  Matrix.c
+  Generating Code...
+  PROG72365_21W_Lab06_PartB.vcxproj -> C:\Users\gauta\Source\Repos\Gautam Singh - Algorithms Lab 06\x64\Debug\PROG72365_21W_Lab06_PartB.exe
